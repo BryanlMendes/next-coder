@@ -6,7 +6,7 @@ function acao1(){
 export default function botao(){
 
     function acao2(){
-        console.log("acao2")
+        console.log("Clicou")
     }
 
     function acao5(e){
